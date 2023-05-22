@@ -4,7 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To run the project
 
-You need to clone the repo, then, run the `npm install` to install all the dependencies. Once all dependencies are installed you can run `npm start` to start the project and see it working.
+You need to clone the repo, then, run the `npm install` to install all the dependencies. Create a `.env` file to add the variable for the api call.
+
+Add `REACT_APP_BASE_URL=https://swapi.dev/planets/` to the `.env` file.
+
+Once all dependencies are installed and the environment variable is setted, you can run `npm start` to start the project and see it working.
+
+## Issues
+
+If any issue is detected, please let me know here in the repository or send me an email.
 
 ## Available Scripts
 
