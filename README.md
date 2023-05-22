@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The main idea is show the response from [swapi](https://swapi.dev/) using the planets endpoint. The project is using atomic design and its testing is work in progress.
 
 ## To run the project
 
